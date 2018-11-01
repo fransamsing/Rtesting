@@ -2,7 +2,7 @@
 % Please edit documentation in R/myfunction.R
 \name{basic_mean}
 \alias{basic_mean}
-\title{Basic mean calculation}
+\title{Basic mean calculationdevtool}
 \usage{
 basic_mean(vec)
 }
@@ -13,7 +13,7 @@ basic_mean(vec)
 A double
 }
 \description{
-Basic mean calculation
+Basic mean calculationdevtool
 }
 \examples{
 basic_mean(1:3)
